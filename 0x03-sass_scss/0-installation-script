@@ -1,0 +1,2 @@
+I created a new folder for my project and navigated into it using the terminal.
+I installed the SASS compiler as a development dependency for my project. This means it's a tool needed during development but not for running the website live on a server.

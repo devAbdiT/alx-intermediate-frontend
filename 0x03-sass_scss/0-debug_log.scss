@@ -1,0 +1,4 @@
+$message: "Hello world";
+
+@debug $message;
+@debug "The message is: #{$message}";
